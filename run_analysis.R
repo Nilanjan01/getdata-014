@@ -20,7 +20,7 @@ subject <- rbind(subjectTrain,subjectTest)
 activity <- rbind(activityTrain,activityTest)
 features <- rbind(featureTrain,featureTest)
 
-#Cloumn naming
+#Column naming
 colnames(features) <- t(featureNames[2])
 
 #merging data into one file
