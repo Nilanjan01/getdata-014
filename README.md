@@ -17,7 +17,7 @@
 ####1. The UCI HAR Dataset must be extracted 
 ####2. The UCI HAR Dataset must be preset in a directory called "UCI HAR Dataset"
 
-####After merging testing and training, the labels are added and only columns with mean and standard deviation are kept.
+####After merging testing and training, the labels are added and only columns with Mean and Standard Deviation are kept.
 
 ####Lastly, the script creates a tidy data set with the means of all the columns per test subject and per activity.
 ####This tidy dataset written into a tab-delimited file called HAR-tidy.txt, which can also be found in this repository.
