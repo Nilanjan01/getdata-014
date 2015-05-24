@@ -27,11 +27,11 @@ SubjectID, Class_Name, tBodyAcc_mean_X, tBodyAcc_mean_Y, tBodyAcc_mean_Z, tBodyA
 ##Procedure to create the final Tidy data 
 -----------------------------------------------
 1.Read the supporting metadat for the featurs and the name of the activities.
-2.Read the training data the test data
-3.Label the columns and Merge the traing data and the test data in to a single dataset
-4.Extract the measurements on the mean and the standard deviation for each measurements into a dataset
-5.Uses a descriptive activity name on the extracted data
-6.Appropriately labels the data set with descriptive variable names
-7.Finally created another tidy set with the average of each variable for each activity and each subject
+2.Read the training data and the test data.
+3.Label the columns and Merge the traing data and the test data in to a single dataset.
+4.Extract the measurements on the mean and the standard deviation for each measurements into a dataset.
+5.Uses a descriptive activity name on the extracted data.
+6.Appropriately labels the data set with descriptive variable names.
+7.Finally created another tidy set with the average of each variable for each activity and each subject.
 
 
